@@ -9,7 +9,7 @@ output: html_document
 
 #Assignement Explaination as follows:
 
-#This assignement dives in assessment of monthly time series data for Airline Passenger. This assessment will give you insight for trend and seasonality using ACF and Boxplot. Data has been smoothened using Holtwinter method. The model created would help forcasting data points.
+#This assignement dives in assessment of monthly time series data for Airline Passenger. This is a monthly data which fits the requirement of time series analysis. This assessment will give you insight for trend and seasonality using ACF and Boxplot. Data has been smoothened using Holtwinter method. The model created would help forcasting data points.
 
 #It shows data series in a time series format
 data("AirPassengers")
